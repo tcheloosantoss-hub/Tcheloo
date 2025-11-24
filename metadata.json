@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Açaí Flow",
+  "description": "Aplicativo de delivery de açaí com experiência visual imersiva e personalização via IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
